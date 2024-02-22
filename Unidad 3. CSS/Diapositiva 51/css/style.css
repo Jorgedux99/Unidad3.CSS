@@ -1,0 +1,10 @@
+li::before {
+    content: "🐱‍👤";
+    padding-right: 4px;
+    color: orange;
+}
+
+li {
+    list-style-type: none;
+
+}

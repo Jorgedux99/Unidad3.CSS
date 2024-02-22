@@ -1,0 +1,101 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: black;
+    padding: 2%;
+    color: white;
+}
+
+.navbar {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    justify-content: flex-end;
+}
+
+.navbarhijo {
+    padding-left: 2%;
+    font-family: Helvetica;
+    width: auto;
+    height: auto;
+    margin: 1%;
+}
+
+img{
+    width: 100%;
+}
+
+.grande {
+    font-size: 33px;
+}
+
+.cabecera {
+    display: flex;
+    justify-content: center;
+    font-size: 33px;
+    font-family: Helvetica;
+}
+
+.imagenes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+
+}
+
+.imgcont{
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

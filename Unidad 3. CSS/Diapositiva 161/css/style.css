@@ -1,0 +1,5 @@
+.mi-elemento{
+    background-color: blue;
+    animation: cambiarColor 2s infinite;
+    animation-delay: 1s;
+}

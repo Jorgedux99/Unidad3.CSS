@@ -1,0 +1,15 @@
+body {
+    background-color: pink;
+    color: blue;
+}
+
+h1 {
+text-transform: capitalize;
+
+}
+
+li {
+color: rgba(160, 5, 36, 0.822);
+font-style: italic;
+
+}
